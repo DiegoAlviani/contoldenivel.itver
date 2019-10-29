@@ -75,7 +75,7 @@ JustGage = function(config) {
 
     // titleFontFamily : string
     // color of gauge title
-    titleFontFamily: kvLookup('titleFontFamily', config, dataset, "Stencil"),
+    titleFontFamily: kvLookup('titleFontFamily', config, dataset, "Digital-7 Mono"),
 
     // titlePosition : string
     // 'above' or 'below'
